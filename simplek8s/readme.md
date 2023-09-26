@@ -34,5 +34,3 @@ kubectl version
 kubectl cluster-info
 ```
 
-
-stephengrider/multi-client
